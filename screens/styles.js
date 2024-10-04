@@ -7,10 +7,12 @@ export default StyleSheet.create({
     backgroundColor: '#f5f5f5', // Cor de fundo leve
   },
   input: {
+    width: '30%',
     marginBottom: 15,
     backgroundColor: '#fff', // Fundo branco para campos de entrada
   },
   button: {
+    width: '15%',
     marginTop: 20,
     paddingVertical: 10,
     borderRadius: 5, // Canto arredondado para botões
